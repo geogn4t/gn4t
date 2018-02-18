@@ -1,0 +1,17 @@
+body{
+  font-family: "Noto Sans", sans-serif;
+}
+
+h1{
+    font-size:28px;
+    line-height:1.25;
+}
+h2{
+    font-size:22px;
+    line-height: 1.25;
+}
+
+h3{
+    font-size:18px;
+    line-height:1.25;
+}
